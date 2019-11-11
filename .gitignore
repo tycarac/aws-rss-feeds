@@ -1,0 +1,13 @@
+#
+# https://git-scm.com/docs/gitignore
+
+# Files
+**/*.log
+**/*.bak
+**/*.tmp
+
+# Processing paths
+cache/**
+output/**
+logs/**
+temp/**
