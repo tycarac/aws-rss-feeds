@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>AWS RSS</title>
-        <dateModified>Mon Nov 11 14:17:25 2019</dateModified>
+        <dateModified>Tue Nov 12 13:51:03 2019</dateModified>
     </head>
     <body>
         <outline text="AWS Amazon">
@@ -92,9 +92,13 @@
                 <outline text="Amazon EC2 Auto Scaling User Guide Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/autoscaling/ec2/userguide/" xmlUrl="https://docs.aws.amazon.com/autoscaling/ec2/userguide/CHAP_DocumentHistory.rss"/>
                 <outline text="Application Auto Scaling User Guide Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/autoscaling/application/userguide/" xmlUrl="https://docs.aws.amazon.com/autoscaling/application/userguide/doc-history.rss"/>
                 <outline text="AWS Auto Scaling" type="rss" htmlUrl="https://docs.aws.amazon.com/autoscaling/plans/userguide/" xmlUrl="https://docs.aws.amazon.com/autoscaling/plans/userguide/doc-history.rss"/>
+                <outline text="AWS Chatbox Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/chatbot/latest/adminguide/" xmlUrl="https://docs.aws.amazon.com/chatbot/latest/adminguide/chatbot-ag.rss"/>
                 <outline text="AWS CloudFormation Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/" xmlUrl="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-cloudformation-release-notes.rss"/>
+                <outline text="AWS CloudTrail User Guide Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/awscloudtrail/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/awscloudtrail/latest/userguide/aws-cloudtrail-document-history.rss"/>
+                <outline text="AWS Control Tower User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/controltower/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/controltower/latest/userguide/control-tower-guide.rss"/>
                 <outline text="AWS Organizations" type="rss" htmlUrl="https://docs.aws.amazon.com/organizations/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/organizations/latest/userguide/aws-organizations-release-notes.rss"/>
                 <outline text="AWS Systems Manager" type="rss" htmlUrl="https://docs.aws.amazon.com/systems-manager/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/systems-manager/latest/userguide/aws-systems-manager-user-guide-updates.rss"/>
+                <outline text="AWS Tools for PowerShell RSS Feed" type="rss" htmlUrl="https://docs.aws.amazon.com/powershell/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/powershell/latest/userguide/toolsforpowershell.rss"/>
             </outline>
             <outline text="09 - Migration &amp; Transfer">
                 <outline text="AWS Database Migration Service" type="rss" htmlUrl="https://docs.aws.amazon.com/dms/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/dms/latest/userguide/aws-dms-updates.rss"/>
@@ -112,6 +116,7 @@
                 <outline text="AWS Direct Connect Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/directconnect/latest/UserGuide/" xmlUrl="https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-release-notes.rss"/>
                 <outline text="Classic Load Balancer Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/" xmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/classic-load-balancer-release-notes.rss"/>
                 <outline text="CloudFront Document Releases" type="rss" htmlUrl="https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/" xmlUrl="https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/amazon-cf-doc-releases.rss"/>
+                <outline text="Global Accelerator Document Releases" type="rss" htmlUrl="https://docs.aws.amazon.com/global-accelerator/latest/dg/" xmlUrl="https://docs.aws.amazon.com/global-accelerator/latest/dg/amazon-aga-doc-releases.rss"/>
                 <outline text="Network Load Balancer Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/network/" xmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/network/network-load-balancer-release-notes.rss"/>
             </outline>
             <outline text="14 - Analytics">
@@ -147,6 +152,7 @@
                 <outline text="Amazon Connect" type="rss" htmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/" xmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/amazon-connect-release-notes.rss"/>
             </outline>
             <outline text="23 - SDKs &amp; Toolkits">
+                <outline text="Amazon AWS Toolkit for Visual Studio Code Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/amazon-toolkit-for-vs-code-guide-doc-history.rss"/>
                 <outline text="Amazon AWS Toolkit for Visual Studio Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/" xmlUrl="https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/amazon-toolkit-for-visual-studio-guide-doc-history.rss"/>
                 <outline text="Amazon CLI User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/cli/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/cli/latest/userguide/aws-cli-user-guide-updates.rss"/>
                 <outline text="Amazon DynamoDB Encryption Client Documentation Update" type="rss" htmlUrl="https://docs.aws.amazon.com/dynamodb-encryption-client/latest/devguide/" xmlUrl="https://docs.aws.amazon.com/dynamodb-encryption-client/latest/devguide/dynamodb-encryption-client-documentation-update.rss"/>
