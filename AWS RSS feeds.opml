@@ -119,6 +119,21 @@
                 <outline text="Global Accelerator Document Releases" type="rss" htmlUrl="https://docs.aws.amazon.com/global-accelerator/latest/dg/" xmlUrl="https://docs.aws.amazon.com/global-accelerator/latest/dg/amazon-aga-doc-releases.rss"/>
                 <outline text="Network Load Balancer Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/network/" xmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/network/network-load-balancer-release-notes.rss"/>
             </outline>
+            <outline text="12 - Media Services">
+                <outline text="Amazon Elastic Transcoder Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/elastictranscoder/latest/developerguide/" xmlUrl="https://docs.aws.amazon.com/elastictranscoder/latest/developerguide/amazon-ets-release-notes.rss"/>
+                <outline text="AWS Elemental MediaConnect Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/mediaconnect/latest/ug/" xmlUrl="https://docs.aws.amazon.com/mediaconnect/latest/ug/aws-elemental-mediaconnect-release-notes.rss"/>
+                <outline text="AWS Elemental MediaConvert Documentation Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/mediaconvert/latest/ug/" xmlUrl="https://docs.aws.amazon.com/mediaconvert/latest/ug/mediaconvert-documentatation-updates.rss"/>
+                <outline text="AWS Elemental MediaLive Documentation Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/medialive/latest/ug/" xmlUrl="https://docs.aws.amazon.com/medialive/latest/ug/medialive-documentation-updates.rss"/>
+                <outline text="AWS Elemental MediaPackage Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/mediapackage/latest/ug/" xmlUrl="https://docs.aws.amazon.com/mediapackage/latest/ug/aws-elemental-mediapackage-release-notes.rss"/>
+                <outline text="AWS Elemental MediaStore Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/mediastore/latest/ug/" xmlUrl="https://docs.aws.amazon.com/mediastore/latest/ug/aws-elemental-mediastore-release-notes.rss"/>
+                <outline text="AWS Elemental MediaTailor Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/mediatailor/latest/ug/" xmlUrl="https://docs.aws.amazon.com/mediatailor/latest/ug/aws-elemental-mediatailor-release-notes.rss"/>
+            </outline>
+            <outline text="13 - End User Computing">
+                <outline text="Administration Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/worklink/latest/ag/" xmlUrl="https://docs.aws.amazon.com/worklink/latest/ag/worklink-ag.pdf.rss"/>
+                <outline text="Amazon AppStream 2.0 RSS Feed" type="rss" htmlUrl="https://docs.aws.amazon.com/appstream2/latest/developerguide/" xmlUrl="https://docs.aws.amazon.com/appstream2/latest/developerguide/doc-history.rss"/>
+                <outline text="Amazon WorkDocs Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/workdocs/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/workdocs/latest/userguide/amazon-workdocs-release-notes.rss"/>
+                <outline text="NICE DCV Administrator Guide Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/dcv/latest/adminguide/" xmlUrl="https://docs.aws.amazon.com/dcv/latest/adminguide/nice-dcv-admin-release-notes.rss"/>
+            </outline>
             <outline text="14 - Analytics">
                 <outline text="Amazon Athena" type="rss" htmlUrl="https://docs.aws.amazon.com/athena/latest/ug/" xmlUrl="https://docs.aws.amazon.com/athena/latest/ug/amazon-athena-release-notes.rss"/>
                 <outline text="Amazon Elasticsearch Service" type="rss" htmlUrl="https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/" xmlUrl="https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/amazon-elasticsearch-service-release-notes.rss"/>
@@ -131,6 +146,7 @@
             </outline>
             <outline text="15 - Application Integration">
                 <outline text="Amazon MQ Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/" xmlUrl="https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/recent-updates.rss"/>
+                <outline text="Amazon SNS Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/sns/latest/dg/" xmlUrl="https://docs.aws.amazon.com/sns/latest/dg/recent-updates.rss"/>
                 <outline text="Amazon SQS Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/" xmlUrl="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/recent-updates.rss"/>
                 <outline text="Amazon SWF" type="rss" htmlUrl="https://docs.aws.amazon.com/amazonswf/latest/developerguide/" xmlUrl="https://docs.aws.amazon.com/amazonswf/latest/developerguide/recent-updates.rss"/>
                 <outline text="AWS Flow Framework Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/amazonswf/latest/awsflowguide/" xmlUrl="https://docs.aws.amazon.com/amazonswf/latest/awsflowguide/recent-updates.rss"/>
@@ -142,31 +158,39 @@
                 <outline text="Amazon WorkDocks" type="rss" htmlUrl="https://docs.aws.amazon.com/workdocs/latest/adminguide/" xmlUrl="https://docs.aws.amazon.com/workdocs/latest/adminguide/amazon-workdocs-release-notes.rss"/>
                 <outline text="Amazon WorkMail" type="rss" htmlUrl="https://docs.aws.amazon.com/workmail/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/workmail/latest/userguide/amazon-workmail-release-notes.rss"/>
             </outline>
-            <outline text="18 - Blockchain">
+            <outline text="17 - Satellite">
+                <outline text="User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/ground-station/latest/ug/" xmlUrl="https://docs.aws.amazon.com/ground-station/latest/ug/ground-station.rss"/>
+            </outline>
+            <outline text="19 - Blockchain">
                 <outline text="Amazon Managed Blockchain" type="rss" htmlUrl="https://docs.aws.amazon.com/managed-blockchain/latest/managementguide/" xmlUrl="https://docs.aws.amazon.com/managed-blockchain/latest/managementguide/managed-blockchain-mgmt.rss"/>
             </outline>
             <outline text="21 - Internet of Things">
                 <outline text="AWS IoT Greengrass" type="rss" htmlUrl="https://docs.aws.amazon.com/greengrass/latest/developerguide/" xmlUrl="https://docs.aws.amazon.com/greengrass/latest/developerguide/aws-greengrass-doc-history.rss"/>
             </outline>
-            <outline text="22 - Customer Engagement">
-                <outline text="Amazon Connect" type="rss" htmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/" xmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/amazon-connect-release-notes.rss"/>
+            <outline text="23 - Customer Engagement">
+                <outline text="Amazon Pinpoint User Guide Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/amazon-pinpoint-user-guide-rss-updates.rss"/>
             </outline>
-            <outline text="23 - SDKs &amp; Toolkits">
+            <outline text="24 - AR &amp; VR">
+                <outline text="Amazon Sumerian Releases" type="rss" htmlUrl="https://docs.aws.amazon.com/sumerian/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/sumerian/latest/userguide/feed.rss"/>
+            </outline>
+            <outline text="25 - SDKs &amp; Toolkits">
                 <outline text="Amazon AWS Toolkit for Visual Studio Code Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/amazon-toolkit-for-vs-code-guide-doc-history.rss"/>
                 <outline text="Amazon AWS Toolkit for Visual Studio Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/" xmlUrl="https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/amazon-toolkit-for-visual-studio-guide-doc-history.rss"/>
+                <outline text="Amazon AWS Tools for Microsoft Visual Studio Team Services Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/vsts/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/vsts/latest/userguide/amazon-tools-for-vsts-guide-doc-history.rss"/>
                 <outline text="Amazon CLI User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/cli/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/cli/latest/userguide/aws-cli-user-guide-updates.rss"/>
                 <outline text="Amazon DynamoDB Encryption Client Documentation Update" type="rss" htmlUrl="https://docs.aws.amazon.com/dynamodb-encryption-client/latest/devguide/" xmlUrl="https://docs.aws.amazon.com/dynamodb-encryption-client/latest/devguide/dynamodb-encryption-client-documentation-update.rss"/>
                 <outline text="Amazon SDK for JavaScript Developer Guide Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/" xmlUrl="https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/amazon-sdk-javascript-guide-doc-history.rss"/>
                 <outline text="AWS Encryption SDK Documentation History" type="rss" htmlUrl="https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/" xmlUrl="https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/aws-encryption-sdk-documentation-history.rss"/>
+                <outline text="AWS Toolkit for JetBrains User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/aws-toolkit-for-jetbrains-user-guide-updates.rss"/>
                 <outline text="Code Example Catalog Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/code-samples/latest/catalog/" xmlUrl="https://docs.aws.amazon.com/code-samples/latest/catalog/example-catalog.rss"/>
                 <outline text="Corretto 11 - User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/" xmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/corretto-11-ug.rss"/>
                 <outline text="Corretto 8 - User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/" xmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/corretto-8-ug.rss"/>
                 <outline text="Developer Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/cdk/latest/guide/" xmlUrl="https://docs.aws.amazon.com/cdk/latest/guide/awscdk.rss"/>
             </outline>
-            <outline text="25 - Mangement Console">
+            <outline text="27 - AWS Mangement Console">
                 <outline text="AWS Resource Groups Documentation Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/ARG/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/ARG/latest/userguide/resgrps-doc-release-notes.rss"/>
             </outline>
-            <outline text="26 - Additional References">
+            <outline text="28 - Additional References">
                 <outline text="AWS Billing and Cost Management Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/" xmlUrl="https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/aws-billing-release-notes.rss"/>
                 <outline text="AWS Pricing Calculator Release Notes" type="rss" htmlUrl="https://docs.aws.amazon.com/pricing-calculator/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/pricing-calculator/latest/userguide/aws-apc-release-notes.rss"/>
             </outline>
