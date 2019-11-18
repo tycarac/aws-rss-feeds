@@ -47,7 +47,9 @@
                 <outline text="Neptune" type="rss" htmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/testupdates.rss"/>
             </outline>
             <outline text="04 - Developer Tools">
+                <outline text="AWS Cloud9 User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/cloud9/latest/user-guide/" xmlUrl="https://docs.aws.amazon.com/cloud9/latest/user-guide/aws-cloud9-user-guide-updates.rss"/>
                 <outline text="AWS CodeBuild User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/codebuild/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/codebuild/latest/userguide/aws-codebuild-user-guide-updates.rss"/>
+                <outline text="AWS CodeCommit User Guide Document History" type="rss" htmlUrl="https://docs.aws.amazon.com/codecommit/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/codecommit/latest/userguide/aws-codecommit-document-history.rss"/>
                 <outline text="AWS CodeDeploy User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/codedeploy/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/codedeploy/latest/userguide/aws-codedeploy-user-guide-updates.rss"/>
                 <outline text="AWS CodePipeline User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/codepipeline/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/codepipeline/latest/userguide/aws-codepipeline-user-guide-updates.rss"/>
                 <outline text="AWS CodeStar" type="rss" htmlUrl="https://docs.aws.amazon.com/codestar/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/codestar/latest/userguide/aws-codestar-user-guide-updates.rss"/>
