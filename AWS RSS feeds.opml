@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>AWS RSS</title>
-        <dateModified>Sat Jan 11 14:35:13 2020</dateModified>
+        <dateModified>Tue Mar 3 13:26:15 2020</dateModified>
     </head>
     <body>
         <outline text="AWS Amazon">
@@ -130,6 +130,7 @@
                 <outline text="AWS Deep Learning AMIs" type="rss" htmlUrl="https://docs.aws.amazon.com/dlami/latest/devguide/" xmlUrl="https://docs.aws.amazon.com/dlami/latest/devguide/aws-dlami-devguide-updates.rss"/>
                 <outline text="AWS DeepComposer Developer Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/deepcomposer/latest/devguide/" xmlUrl="https://docs.aws.amazon.com/deepcomposer/latest/devguide/gemini-dg.rss"/>
                 <outline text="AWS DeepLens" type="rss" htmlUrl="https://docs.aws.amazon.com/deeplens/latest/dg/" xmlUrl="https://docs.aws.amazon.com/deeplens/latest/dg/aws-deeplens-documentation-history.rss"/>
+                <outline text="Developer Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/" xmlUrl="https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/dlc-guide.pdf.rss"/>
             </outline>
             <outline text="08 - Management &amp; Governance">
                 <outline text="Amazon CloudWatch" type="rss" htmlUrl="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/" xmlUrl="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/amazon-cloudwatch-document-history.rss"/>
