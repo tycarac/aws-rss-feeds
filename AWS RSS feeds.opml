@@ -2,13 +2,13 @@
 <opml version="2.0">
     <head>
         <title>AWS RSS</title>
-        <dateModified>Tue Mar 3 13:26:15 2020</dateModified>
+        <dateModified>Sat Apr 11 22:21:08 2020</dateModified>
     </head>
     <body>
         <outline text="AWS Amazon">
             <outline text="Amazon.com, Inc" type="rss" htmlUrl="https://press.aboutamazon.com/" xmlUrl="https://press.aboutamazon.com/rss/news-releases.xml"/>
             <outline text="AWS News Blog" type="rss" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="https://aws.amazon.com/blogs/aws/feed/"/>
-            <outline text="AWS Security Latest Bulletins" type="rss" htmlUrl="https://aws.amazon.com/security/security-bulletins/" xmlUrl="https://aws.amazon.com/security/security-bulletins/feed/"/>
+            <outline text="AWS Security Latest Bulletins" type="rss" htmlUrl="https://aws.amazon.com/security/security-bulletins/rss/" xmlUrl="https://aws.amazon.com/security/security-bulletins/feed/"/>
             <outline text="Jeff Barr – AWS News Blog" type="rss" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="https://aws.amazon.com/blogs/aws/author/jbarr/feed/"/>
             <outline text="What's New" type="rss" htmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/" xmlUrl="https://aws.amazon.com/new/feed/"/>
         </outline>
@@ -240,6 +240,7 @@
                 <outline text="AWS CDK Developer Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/cdk/latest/guide/" xmlUrl="https://docs.aws.amazon.com/cdk/latest/guide/awscdk.rss"/>
                 <outline text="AWS Encryption SDK Documentation History" type="rss" htmlUrl="https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/" xmlUrl="https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/aws-encryption-sdk-documentation-history.rss"/>
                 <outline text="AWS Toolkit for JetBrains User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/" xmlUrl="https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/aws-toolkit-for-jetbrains-user-guide-updates.rss"/>
+                <outline text="AWS Tools and SDKs Shared Configuration and Credentials Reference Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/credref/latest/refdocs/" xmlUrl="https://docs.aws.amazon.com/credref/latest/refdocs/aws-creds-config-ref.rss"/>
                 <outline text="Code Example Catalog Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/code-samples/latest/catalog/" xmlUrl="https://docs.aws.amazon.com/code-samples/latest/catalog/example-catalog.rss"/>
                 <outline text="Corretto 11 - User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/" xmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/corretto-11-ug.rss"/>
                 <outline text="Corretto 8 - User Guide Updates" type="rss" htmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/" xmlUrl="https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/corretto-8-ug.rss"/>
